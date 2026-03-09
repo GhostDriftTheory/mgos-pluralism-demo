@@ -1,7 +1,7 @@
 # MG-OS Demo
 
 <p align="center">
-  <img src="docs_mgos_framework.png.png" width="720">
+  <img src="docs_mgos_framework.png" width="720">
 </p>
 
 Repository:[https://github.com/GhostDriftTheory/mgos-pluralism-demo](https://github.com/GhostDriftTheory/mgos-pluralism-demo)
