@@ -3,7 +3,9 @@
 ![MG-OS conceptual framework](docs_mgos_framework.png)
 
 Repository:[https://github.com/GhostDriftTheory/mgos-pluralism-demo](https://github.com/GhostDriftTheory/mgos-pluralism-demo)
+
 Paper (preprint):[https://zenodo.org/records/17712891](https://zenodo.org/records/17712891)
+
 Project page:[https://www.ghostdriftresearch.com/](https://www.ghostdriftresearch.com/)
 
 Minimal theory-side demonstration of **Meaning-Generation OS (MG-OS)**.
