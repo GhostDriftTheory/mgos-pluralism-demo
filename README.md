@@ -1,6 +1,8 @@
 # MG-OS Demo
 
-![MG-OS conceptual framework](docs_mgos_framework.png)
+<p align="center">
+  <img src="docs_mgos_framework.png.png" width="720">
+</p>
 
 Repository:[https://github.com/GhostDriftTheory/mgos-pluralism-demo](https://github.com/GhostDriftTheory/mgos-pluralism-demo)
 
