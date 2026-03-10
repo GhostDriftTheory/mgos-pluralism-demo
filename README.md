@@ -104,6 +104,18 @@ It is designed to make the following points visible:
 
 ---
 
+## Ethical note
+
+MG-OS is **not** a device for declaring that non-selected meanings are worthless.
+
+Its role is to reduce premature erasure of candidate meanings before selection.
+In this sense, the aim is not exclusion, but protection against collapse under majority pressure or unstable dynamics.
+
+The ethical risk arises when the admissibility condition itself is fixed too narrowly and begins to function as an exclusion rule.
+For that reason, MG-OS should be understood as a structure for preserving candidate meanings prior to selection, not as a mechanism for asserting that non-selected meanings have no value.
+
+---
+
 ## Scope
 
 This demo is intentionally small.
